@@ -1,3 +1,4 @@
+// O(2n)
 let arr = [{name: 'apple', color: 'green'},{name: 'mango', color: 'yellow'}]
 function mutate(arr) {
 	for (let item of arr) {

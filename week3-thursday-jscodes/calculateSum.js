@@ -1,3 +1,4 @@
+// O(n)
 function calculateSum(num) {
 	if (num === 0) {
 		return 0;

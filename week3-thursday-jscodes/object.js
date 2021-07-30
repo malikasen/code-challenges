@@ -1,3 +1,4 @@
+// O(1)
 let Person = {
 	firstName: 'Malika',
 	lastName: 'Kassen-Lao'

@@ -1,3 +1,4 @@
+
 function sleep_in(weekday, vacation) {
 	switch (weekday | vacation){
 		case true | false:

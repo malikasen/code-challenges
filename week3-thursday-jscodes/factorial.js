@@ -1,3 +1,4 @@
+// O(n)
 function factorial(num) {
 	if (num === 1) {
 		return 1

@@ -1,3 +1,4 @@
+// O(n)
 function loopThrough(num) {
 	let count = 0;
 	while (count < num) {

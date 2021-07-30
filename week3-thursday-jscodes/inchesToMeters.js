@@ -1,3 +1,4 @@
+// O(1)
 function metersToInches(numOfMeters) {
 	let numOfInches = numOfMeters * 39.3701;
 	return numOfInches;
